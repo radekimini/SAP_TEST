@@ -8,12 +8,9 @@ Polacy nic sie nie stało
 moja mama ma kota
 ala nie ma kota
 
-<<<<<<< HEAD
-=======
 mam teraz zagwostkę
 
 mam
 
->>>>>>> parent of e4cfa2b (Revert "Update ja.txt")
 zablokował zablokowanie pazdana
 i nie zablokował zablokowania pazdana
