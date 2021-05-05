@@ -1,3 +1,4 @@
 dudek strzelil gola
 dodal 3 karne
 zablokował pazdana
+zablokował zablokowanie pazdana
