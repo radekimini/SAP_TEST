@@ -9,3 +9,4 @@ moja mama ma kota
 ala nie ma kota
 
 zablokował zablokowanie pazdana
+i nie zablokował zablokowania pazdana
